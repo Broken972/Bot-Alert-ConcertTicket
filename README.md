@@ -26,11 +26,11 @@ A Puppeteer-powered bot that monitors concert ticket websites for ticket availab
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Broken972/Concert-Notification-TicketBot.git
+    git clone https://github.com/Broken972/Concert-Alert-TicketBot.git
     ```
 2. Change into the directory:
     ```bash
-    cd Concert-Notification-TicketBot
+    cd Concert-Alert-TicketBot
     ```
 3. Install the required packages:
     ```bash
